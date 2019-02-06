@@ -10,6 +10,6 @@
   "author": "Michelle Tilley <michelle@michelletilley.net>",
   "license": "MIT",
   "dependencies": {
-    "cmark-gfm": "^0.3.0"
+    "cmark-gfm": "^0.4.0"
   }
 }
